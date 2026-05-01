@@ -5,16 +5,6 @@ attrs:
   un-cloak: true
 ---
 
-<style scoped>
-html:not(.dark) picture img {
-  content: url("https://skaldapp.github.io/uploads/light.png");
-}
-
-html.dark picture img {
-  content: url("https://skaldapp.github.io/uploads/dark.png");
-}
-</style>
-
 # Skald
 
 **Skald** – a tree-structured content editor where thought finds structure
@@ -214,3 +204,13 @@ Ahead lies a path toward even greater compatibility, intuitiveness, and accessib
 🔗 **Official website**: [skaldapp.github.io](https://skaldapp.github.io)\
 🐙 **Source code**: [github.com/skaldapp/skaldapp](https://github.com/skaldapp/skaldapp)\
 📦 **Snap Store**: [snapcraft.io/skaldapp](https://snapcraft.io/skaldapp)
+
+<style scoped>
+html:not(.dark) picture img {
+  content: url("https://skaldapp.github.io/uploads/light.png");
+}
+
+html.dark picture img {
+  content: url("https://skaldapp.github.io/uploads/dark.png");
+}
+</style>
