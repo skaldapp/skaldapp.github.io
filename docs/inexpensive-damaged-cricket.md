@@ -43,9 +43,12 @@ script:
 
 :::div{.container.mx-auto.px-4.py-8}
 
-:h3[🚀 Ready to try Skald?]
+:h3[🚀 Ready to structure your ideas?]
 
-Start creating, building, and growing your projects **today**! Skald is your **trusted companion** in the world of text and web development.
+Start simple: create your first note. If needed — add style, interactivity, or publishing. Skald grows with your tasks.
+
+:el-button[Download for free]{.not-prose type="primary" tag="a" href="https://github.com/skaldapp/skaldapp/releases/latest" target="_blank" rel="noopener noreferrer"}
+:el-button[Try in browser]{.not-prose type="primary" tag="a" href="https://skaldapp.github.io/skaldapp" target="_blank" rel="noopener noreferrer"}
 
 :::
 
@@ -53,7 +56,7 @@ Start creating, building, and growing your projects **today**! Skald is your **t
 
 :elBacktop
 
-<script setup lang="ts">
+<script setup lang="js">
 import { inject } from "vue";
 import ElementPlus from "element-plus";
 import { useDark, useToggle } from "@vueuse/core";
@@ -97,12 +100,6 @@ app.component("Icon", Icon);
 body {
   @apply dark-bg-[var(--nord1)];
 }
-
-html:not(.dark) #dark,
-html.dark #light {
-  display: none !important;
-}
-
 </style>
 
 <style scoped lang="postcss">
