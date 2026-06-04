@@ -1,6 +1,7 @@
 ---
-title: Skald
-description: Create notes, articles, and knowledge bases in an intuitive visual editor. Publish the result with one click — or simply work locally. Complex tools are only invoked when you need them.
+title: Write it in Markdown. Copy it to the server. The website is working.
+titleTemplate: Skald - %s
+description: Create notes, articles, and knowledge bases in an intuitive visual editor. Publish the result by simply copying it, or just work locally. Advanced tools are enabled only when you need them.
 attrs:
   un-cloak: true
   class:

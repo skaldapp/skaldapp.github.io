@@ -1,5 +1,5 @@
 ---
-title: Skald
+title: Write it in Markdown. Copy it to the server. The website is working.
 icon: twemoji:page-facing-up
 attrs:
   un-cloak: true
@@ -157,15 +157,13 @@ Skald works on all major platforms:
 All key features are available regardless of OS and launch method.
 
 🤔 **Which AI models does Skald support?**\
-Skald integrates with the **Mistral AI** platform and supports compatible models for:
+Skald implements support for the OpenAI protocol, allowing the connection of any compatible models. The integration enables the following features:
 
-* Content generation
+* Content generation;
 
-* Smart text and code autocomplete
+* Smart text and code autocompletion;
 
-* Interactive chat assistant
-
-A valid Mistral API key is required in the settings.
+* Interactive chat assistant.
 
 🤔 **Is Node.js required to run Skald?**\
 No. The editor runs entirely client‑side: Vue component compilation, Markdown processing, and site structure generation happen directly in the browser.
