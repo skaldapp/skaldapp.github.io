@@ -9,7 +9,7 @@
 - visual for markdown
 - syntax highlighting for vue
 
-🧩 Using vue in markdown like in [vitepress](https://vitepress.dev/ru/guide/using-vue)\
+🧩 Using vue in markdown like in [vitepress](https://vitepress.dev/guide/using-vue)\
 🧱 You can use [component syntax in markdown](https://comark.dev/syntax/components)\
 🎨 Built-in support for tailwind 4 classes for styling\
 🌳 Tree structure with vue router support\
@@ -48,7 +48,7 @@ Start writing immediately after launch. No setup — just text and structure.
 
 - Ideal for those who want to work right away without learning the tools
 
-[Learn more about simple mode →](https://skaldapp.ru/easy/)
+[Learn more about simple mode →](https://skaldapp.github.io/easy/)
 
 ### 🔴 Advanced
 
@@ -60,7 +60,7 @@ Add formatting and metadata in the same interface. Don't switch between tools �
 
 - Professional content formatting in your usual workflow
 
-[Learn more about advanced mode →](https://skaldapp.ru/medium/)
+[Learn more about advanced mode →](https://skaldapp.github.io/medium/)
 
 ### 🔵 Professional
 
@@ -72,7 +72,7 @@ Embed interactivity without leaving the editor. Don't configure a build — just
 
 - Full integration with the frontend stack without compromises
 
-[Learn more about professional mode →](https://skaldapp.ru/hard/)
+[Learn more about professional mode →](https://skaldapp.github.io/hard/)
 
 ---
 
@@ -92,7 +92,7 @@ There are many ways. If you are comfortable with computers, use the advice from 
 
 > To run a local HTTP server, install Node.js, then run the command `npx serve` in the project directory. You can also use any other HTTP server that supports static files with the correct MIME types.
 
-A simpler way is the [Simple Web Server](https://simplewebserver.org/ru/) program. It is free, cross-platform, and lets you start a local server in a couple of clicks.
+A simpler way is the [Simple Web Server](https://simplewebserver.org) program. It is free, cross-platform, and lets you start a local server in a couple of clicks.
 
 🤔 **Besides the file system, what storage systems does Skald work with?**
 
