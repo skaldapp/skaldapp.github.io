@@ -14,7 +14,7 @@
 🎨 Built-in support for tailwind 4 classes for styling\
 🌳 Tree structure with vue router support\
 🏷️ Manage page attributes via frontmatter\
-📦 Direct import of Vue components and modules from: https://esm.run, https://esm.sh, https://esm.unpkg.com, https://skypack.dev\
+📦 Direct import of Vue components and modules from: https://esm.run, https://esm.sh, https://esm.unpkg.com, https://skypack.dev \
 🤖 OpenAI support for code and text autocomplete, built-in chatbot
 
 🪄 **And now the main magic** — copy the created content to any web server or publish it to github pages and the site comes alive.

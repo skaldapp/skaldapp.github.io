@@ -9,23 +9,24 @@ attrs:
 
 #### markdown and vue editor, static site generator
 
-***
+---
 
 ✌️ Two editing modes:
-  * visual for markdown
-  * syntax highlighting for vue
+
+- visual for markdown
+- syntax highlighting for vue
 
 🧩 Using vue in markdown like in [vitepress](https://vitepress.dev/ru/guide/using-vue)\
 🧱 You can use [component syntax in markdown](https://comark.dev/syntax/components)\
 🎨 Built-in support for tailwind 4 classes for styling\
 🌳 Tree structure with vue router support\
 🏷️ Manage page attributes via frontmatter\
-📦 Direct import of Vue components and modules from: https://esm.run, https://esm.sh, https://esm.unpkg.com, https://skypack.dev\
+📦 Direct import of Vue components and modules from: https://esm.run, https://esm.sh, https://esm.unpkg.com, https://skypack.dev \
 🤖 OpenAI support for code and text autocomplete, built-in chatbot
 
 🪄 **And now the main magic** — copy the created content to any web server or publish it to github pages and the site comes alive.
-> No settings, no precompilation, no build. Just copy.
 
+> No settings, no precompilation, no build. Just copy.
 
 ## 📥 Download
 
@@ -48,11 +49,11 @@ attrs:
 
 Start writing immediately after launch. No setup — just text and structure.
 
-* Write, structure, organize
+- Write, structure, organize
 
-* The visual editor and tree navigation help you keep focus on the content
+- The visual editor and tree navigation help you keep focus on the content
 
-* Ideal for those who want to work right away without learning the tools
+- Ideal for those who want to work right away without learning the tools
 
 [Learn more about simple mode →](https://skaldapp.ru/easy/)
 
@@ -60,11 +61,11 @@ Start writing immediately after launch. No setup — just text and structure.
 
 Add formatting and metadata in the same interface. Don't switch between tools — don't lose context.
 
-* Fine-tune styling via HTML and TailwindCSS
+- Fine-tune styling via HTML and TailwindCSS
 
-* Manage metadata without leaving the editor
+- Manage metadata without leaving the editor
 
-* Professional content formatting in your usual workflow
+- Professional content formatting in your usual workflow
 
 [Learn more about advanced mode →](https://skaldapp.ru/medium/)
 
@@ -72,15 +73,15 @@ Add formatting and metadata in the same interface. Don't switch between tools �
 
 Embed interactivity without leaving the editor. Don't configure a build — just write code where it is needed.
 
-* Reactivity via Vue components right in the text
+- Reactivity via Vue components right in the text
 
-* Interactive documents, dynamic tables, complex interfaces
+- Interactive documents, dynamic tables, complex interfaces
 
-* Full integration with the frontend stack without compromises
+- Full integration with the frontend stack without compromises
 
 [Learn more about professional mode →](https://skaldapp.ru/hard/)
 
-***
+---
 
 ## ❓ Q&A
 
@@ -120,21 +121,21 @@ Skald applies basic protection measures: keys are stored encrypted, and access t
 
 Recommendations:
 
-* Do not use keys with unlimited permissions
+- Do not use keys with unlimited permissions
 
-* Regularly monitor their usage
+- Regularly monitor their usage
 
-* Enable local protection via PIN code
+- Enable local protection via PIN code
 
-* Use keys only on trusted devices
+- Use keys only on trusted devices
 
 🤔 **What operating systems does Skald support?**
 
 Skald works on all major platforms:
 
-* **Browser version**: Chrome, Firefox, Edge, Safari on Windows, macOS, Linux, ChromeOS, and mobile devices
+- **Browser version**: Chrome, Firefox, Edge, Safari on Windows, macOS, Linux, ChromeOS, and mobile devices
 
-* **Electron version**: native builds for Windows, macOS, and Linux with direct file system access
+- **Electron version**: native builds for Windows, macOS, and Linux with direct file system access
 
 All key features are available regardless of OS and launch method.
 
@@ -142,11 +143,11 @@ All key features are available regardless of OS and launch method.
 
 Skald implements support for the OpenAI protocol, which allows connecting any compatible models. The integration enables the following features:
 
-* Content generation;
+- Content generation;
 
-* Smart text and code autocomplete;
+- Smart text and code autocomplete;
 
-* Interactive chat assistant.
+- Interactive chat assistant.
 
 🤔 **Is Node.js required for Skald to work?**
 
