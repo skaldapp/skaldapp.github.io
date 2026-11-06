@@ -44,12 +44,9 @@ script:
 
 :::div{.container.mx-auto.px-4.py-8}
 
-:h3[🚀 Ready to structure your ideas?]
-
-Start simple: create your first note. If needed — add style, interactivity, or publishing. Skald grows with your tasks.
-
-:el-button[Download for free]{.not-prose type="primary" tag="a" href="https://github.com/skaldapp/skaldapp/releases/latest" target="_blank" rel="noopener noreferrer"}
-:el-button[Try in browser]{.not-prose type="primary" tag="a" href="https://skaldapp.github.io/skaldapp" target="_blank" rel="noopener noreferrer"}
+🔗 **Official website**: [skaldapp.github.io](https://skaldapp.github.io)\
+🐙 **Source code**: [github.com/skaldapp/skaldapp](https://github.com/skaldapp/skaldapp)\
+📦 **Snap Store**: [snapcraft.io/skaldapp](https://snapcraft.io/skaldapp)
 
 :::
 
