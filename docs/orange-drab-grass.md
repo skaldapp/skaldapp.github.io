@@ -5,11 +5,11 @@ attrs:
   un-cloak: true
 ---
 
-# Skald
+# Skald - markdown and vue editor, static site generator
 
-#### markdown and vue editor, static site generator
+![1.00](uploads/skald.jpg){.rounded-xl}
 
----
+## 📝 Write in markdown, add vue magic — a convenient editor that can do more
 
 ✌️ Two editing modes:
 
@@ -43,7 +43,7 @@ attrs:
 <img alt="Skald" src="https://skaldapp.github.io/uploads/light.png">
 </picture>
 
-## Functionality levels
+## 🪜 Functionality levels
 
 ### 🟢 Simple
 
